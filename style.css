@@ -1,0 +1,45 @@
+#wrapper{
+    background-color: aqua;
+    height:100vh ;
+    width: 100wv;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.container{
+    height:300px;
+    width: 400px;
+    background-color: black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+}
+
+.para{
+    font-size: 2;
+}
+    
+
+
+
+.btns{
+    margin: 20px;
+    /* border: 2px solid white; */
+    padding: 5px;
+
+}
+
+button{
+    height:40px;
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin:6px ;
+    color: rgb(64, 5, 131);
+
+
+}
